@@ -69,7 +69,7 @@ export default function HomePage() {
           {/* Circle Pattern Background */}
           <div className="absolute inset-0 opacity-30">
             <Image
-              src="/images/circle-pattern.png"
+              src="circle.png"
               alt=""
               fill
               className="object-cover object-center"
