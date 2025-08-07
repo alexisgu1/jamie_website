@@ -131,7 +131,7 @@ export default function HomePage() {
               {
                 icon: Camera,
                 title: "Surveillance Services",
-                description: "Providing discreet, professional surveillance for personal and business matters. Whether you're dealing with a cheating spouse, suspecting fraud, or need to monitor employee activities, we use advanced techniques and equipment to gather evidence and provide you with the truth."
+                description: "Providing discreet, professional surveillance for personal and business matters. Whether you are dealing with a cheating spouse, suspecting fraud, or need to monitor employee activities, we use advanced techniques and equipment to gather evidence and provide you with the truth."
               },
               {
                 icon: Search,
@@ -192,7 +192,7 @@ export default function HomePage() {
               </p>
               
               <p className="text-gray-300 text-lg leading-relaxed">
-                After retiring from the <span className="text-red-400 font-semibold">Royal Oak Police Department</span>, Jamie served with the Michigan Attorney General's Office before founding Agent Five-O Private Investigation, LLC.
+                After retiring from the <span className="text-red-400 font-semibold">Royal Oak Police Department</span>, Jamie served with the Michigan Attorney General&apos;s Office before founding Agent Five-O Private Investigation, LLC.
               </p>
 
               <div className="grid grid-cols-2 gap-4 pt-6">
