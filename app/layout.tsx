@@ -2,11 +2,16 @@ import type { Metadata } from 'next'
 import { Inter, Rajdhani } from 'next/font/google'
 import './globals.css'
 
-const inter = Inter({ subsets: ['latin'] })
+const inter = Inter({ 
+  subsets: ['latin'],
+  display: 'swap',
+})
+
 const rajdhani = Rajdhani({ 
   subsets: ['latin'],
   weight: ['300', '400', '500', '600', '700'],
-  variable: '--font-rajdhani'
+  variable: '--font-rajdhani',
+  display: 'swap',
 })
 
 export const metadata: Metadata = {
