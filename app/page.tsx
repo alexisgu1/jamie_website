@@ -110,7 +110,7 @@ export default function HomePage() {
             <Button className="bg-gradient-to-r from-red-600 to-red-700 hover:from-red-700 hover:to-red-800 text-white px-8 py-4 text-lg font-semibold rounded-lg shadow-lg transform hover:scale-105 transition-all duration-300">
               GET STARTED TODAY
             </Button>
-            <Button variant="outline" className="border-gray-500 text-gray-200 hover:bg-gray-700 hover:text-white hover:border-gray-400 px-8 py-4 text-lg rounded-lg transition-all duration-300">
+            <Button variant="outline" className="border-gray-500 text-white hover:bg-gray-700 hover:text-white hover:border-gray-400 px-8 py-4 text-lg rounded-lg transition-all duration-300">
               <Phone className="w-5 h-5 mr-2" />
               248-379-5374
             </Button>
@@ -255,7 +255,7 @@ export default function HomePage() {
             <CardContent className="p-8 text-center">
               <Shield className="w-12 h-12 text-red-400 mx-auto mb-4" />
               <h3 className="text-3xl font-bold mb-4 text-red-400 font-rajdhani">Licensed & Bonded</h3>
-              <p className="text-gray-300 text-lg">Michigan License #3701000265 - Fully insured and bonded</p>
+              <p className="text-gray-300 text-xl">Michigan License #3701000265 - Fully insured and bonded</p>
             </CardContent>
           </Card>
 
@@ -271,14 +271,14 @@ export default function HomePage() {
                     <div className="w-2 h-2 bg-red-500 rounded-full mt-2 flex-shrink-0"></div>
                     <div>
                       <p className="font-semibold text-red-400">Individuals:</p>
-                      <p className="text-sm">Personal investigation services like infidelity checks, missing person investigations, or background checks</p>
+                      <p className="text-xl">Personal investigation services like infidelity checks, missing person investigations, or background checks</p>
                     </div>
                   </div>
                   <div className="flex items-start gap-3">
                     <div className="w-2 h-2 bg-red-500 rounded-full mt-2 flex-shrink-0"></div>
                     <div>
                       <p className="font-semibold text-red-400">Corporations & Small Businesses:</p>
-                      <p className="text-sm">Corporate investigations, employee monitoring, fraud prevention, or security consulting</p>
+                      <p className="text-xl">Corporate investigations, employee monitoring, fraud prevention, or security consulting</p>
                     </div>
                   </div>
                 </div>
@@ -287,14 +287,14 @@ export default function HomePage() {
                     <div className="w-2 h-2 bg-red-500 rounded-full mt-2 flex-shrink-0"></div>
                     <div>
                       <p className="font-semibold text-red-400">Attorneys & Law Firms:</p>
-                      <p className="text-sm">Lawyers who need evidence, witness location, or general support for their cases</p>
+                      <p className="text-xl">Lawyers who need evidence, witness location, or general support for their cases</p>
                     </div>
                   </div>
                   <div className="flex items-start gap-3">
                     <div className="w-2 h-2 bg-red-500 rounded-full mt-2 flex-shrink-0"></div>
                     <div>
                       <p className="font-semibold text-red-400">Insurance Companies:</p>
-                      <p className="text-sm">Firms seeking help with fraud investigations or complex claims</p>
+                      <p className="text-xl">Firms seeking help with fraud investigations or complex claims</p>
                     </div>
                   </div>
                 </div>
@@ -311,14 +311,14 @@ export default function HomePage() {
                     <Phone className="w-6 h-6 text-red-400" />
                     <div>
                       <p className="text-2xl font-bold text-gray-100 drop-shadow-lg">248-379-5374</p>
-                      <p className="text-gray-300 text-sm">24/7 Emergency Line</p>
+                      <p className="text-gray-300 text-xl">24/7 Emergency Line</p>
                     </div>
                   </div>
                   <div className="flex items-center justify-center gap-3">
                     <Mail className="w-6 h-6 text-red-400" />
                     <div>
                       <p className="text-lg text-gray-100">agentfiveo.pi@gmail.com</p>
-                      <p className="text-gray-300 text-sm">Confidential Inquiries</p>
+                      <p className="text-gray-300 text-xl">Confidential Inquiries</p>
                     </div>
                   </div>
                 </div>
