@@ -310,7 +310,7 @@ export default function HomePage() {
                   <div className="flex items-center justify-center gap-3">
                     <Phone className="w-6 h-6 text-red-400" />
                     <div>
-                      <p className="text-2xl font-bold text-gray-100 drop-shadow-lg">248-379-5374</p>
+                      <p className="text-xl text-gray-100 drop-shadow-lg">248-379-5374</p>
                       <p className="text-gray-300 text-xl">24/7 Emergency Line</p>
                     </div>
                   </div>
