@@ -212,7 +212,7 @@ export default function HomePage() {
                 <div className="absolute inset-0 bg-gradient-to-r from-red-600/20 to-red-800/20 rounded-2xl transform rotate-3"></div>
                 <div className="relative bg-gradient-to-br from-gray-800 to-gray-900 p-2 rounded-2xl shadow-2xl">
                   <Image
-                    src="/images/jamie-hill-photo.png"
+                    src="/jamie-hill.png"
                     alt="Jamie Hill - Licensed Private Investigator with Royal Oak Police Department background"
                     width={500}
                     height={600}
