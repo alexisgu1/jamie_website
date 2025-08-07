@@ -270,15 +270,15 @@ export default function HomePage() {
                   <div className="flex items-start gap-3">
                     <div className="w-2 h-2 bg-red-500 rounded-full mt-2 flex-shrink-0"></div>
                     <div>
-                      <p className="font-semibold text-red-400 mb-2 text-2xl">Individuals:</p>
-                      <p className="text-xl leading-relaxed">Personal investigation services like infidelity checks, missing person investigations, or background checks</p>
+                      <p className="font-semibold text-red-400 mb-2 text-xl">Individuals:</p>
+                      <p className="text-base leading-relaxed">Personal investigation services like infidelity checks, missing person investigations, or background checks</p>
                     </div>
                   </div>
                   <div className="flex items-start gap-3">
                     <div className="w-2 h-2 bg-red-500 rounded-full mt-2 flex-shrink-0"></div>
                     <div>
-                      <p className="font-semibold text-red-400 mb-2 text-2xl">Corporations & Small Businesses:</p>
-                      <p className="text-xl leading-relaxed">Corporate investigations, employee monitoring, fraud prevention, or security consulting</p>
+                      <p className="font-semibold text-red-400 mb-2 text-xl">Corporations & Small Businesses:</p>
+                      <p className="text-base leading-relaxed">Corporate investigations, employee monitoring, fraud prevention, or security consulting</p>
                     </div>
                   </div>
                 </div>
@@ -286,15 +286,15 @@ export default function HomePage() {
                   <div className="flex items-start gap-3">
                     <div className="w-2 h-2 bg-red-500 rounded-full mt-2 flex-shrink-0"></div>
                     <div>
-                      <p className="font-semibold text-red-400 mb-2 text-2xl">Attorneys & Law Firms:</p>
-                      <p className="text-xl leading-relaxed">Lawyers who need evidence, witness location, or general support for their cases</p>
+                      <p className="font-semibold text-red-400 mb-2 text-xl">Attorneys & Law Firms:</p>
+                      <p className="text-base leading-relaxed">Lawyers who need evidence, witness location, or general support for their cases</p>
                     </div>
                   </div>
                   <div className="flex items-start gap-3">
                     <div className="w-2 h-2 bg-red-500 rounded-full mt-2 flex-shrink-0"></div>
                     <div>
-                      <p className="font-semibold text-red-400 mb-2 text-2xl">Insurance Companies:</p>
-                      <p className="text-xl leading-relaxed">Firms seeking help with fraud investigations or complex claims</p>
+                      <p className="font-semibold text-red-400 mb-2 text-xl">Insurance Companies:</p>
+                      <p className="text-base leading-relaxed">Firms seeking help with fraud investigations or complex claims</p>
                     </div>
                   </div>
                 </div>
@@ -310,14 +310,14 @@ export default function HomePage() {
                   <div className="flex items-center justify-center gap-3">
                     <Phone className="w-6 h-6 text-red-400" />
                     <div>
-                      <p className="text-2xl text-gray-100 drop-shadow-lg">248-379-5374</p>
+                      <p className="text-xl text-gray-100 drop-shadow-lg">248-379-5374</p>
                       <p className="text-gray-300 text-lg">24/7 Emergency Line</p>
                     </div>
                   </div>
                   <div className="flex items-center justify-center gap-3">
                     <Mail className="w-6 h-6 text-red-400" />
                     <div>
-                      <p className="text-2xl text-gray-100">agentfiveo.pi@gmail.com</p>
+                      <p className="text-xl text-gray-100">agentfiveo.pi@gmail.com</p>
                       <p className="text-gray-300 text-lg">Confidential Inquiries</p>
                     </div>
                   </div>
