@@ -235,7 +235,7 @@ export default function HomePage() {
           <h2 className="text-5xl md:text-7xl font-bold mb-8 font-rajdhani">
             <span className="bg-gradient-to-r from-white via-red-400 to-white bg-clip-text text-transparent">
               UNCOVERING THE TRUTH AND<br />
-              RECOVERING WHAT'S YOURS.
+              RECOVERING WHAT&apos;S YOURS.
             </span>
           </h2>
           <p className="text-xl md:text-2xl text-gray-300 mb-12 max-w-3xl mx-auto leading-relaxed">
